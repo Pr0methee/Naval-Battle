@@ -3,7 +3,7 @@
 #include <ctime>
 #include "adder.h"
 #include "structures.h"
-#include "initialisation.h"
+#include "initialisation.hpp"
 #include "asker.h"
 
 class Player{
